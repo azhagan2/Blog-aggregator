@@ -1,7 +1,7 @@
 
-#Gator
+# Gator
 
-## Gator is a simple CLI tool, that adds blogs using the RSS - Really Simple Syndication
+### Gator is a simple CLI tool, that adds blogs using the RSS - Really Simple Syndication
 
 ## Setup Instructions
 
